@@ -524,7 +524,7 @@ img {
 }
 
 .skills__net {
-  width: 80%;
+  width: 75%;
 }
 
 .skills__html {
@@ -536,14 +536,10 @@ img {
 }
 
 .skills__firebase {
-  width: 85%;
-}
-
-.skills__nodejs {
   width: 70%;
 }
 
-.skills__python {
+.skills__nodejs {
   width: 40%;
 }
 
