@@ -520,7 +520,7 @@ img {
 }
 
 .skills__flutter {
-  width: 85%;
+  width: 95%;
 }
 
 .skills__net {
@@ -533,6 +533,10 @@ img {
 
 .skills__javascript {
   width: 50%;
+}
+
+.skills__dart {
+  width: 90%;
 }
 
 .skills__firebase {
